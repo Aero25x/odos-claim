@@ -1,4 +1,6 @@
 # Wallet Balance Checker
+![image](https://github.com/user-attachments/assets/9902e618-7a82-44d1-ac46-785c1d816522)
+
 
 A Python script to read cryptocurrency wallet addresses from a file, fetch their pending token balances using the ODOS API, and display the results in a user-friendly format.
 
@@ -36,7 +38,7 @@ A Python script to read cryptocurrency wallet addresses from a file, fetch their
 
     ```bash
     git clone https://github.com/Aero25x/odos-claim.git
-    cd wallet-balance-checker
+    cd odos-claim
     ```
 
 2. **Install Required Libraries:**
@@ -66,7 +68,7 @@ A Python script to read cryptocurrency wallet addresses from a file, fetch their
 2. **Run the Script:**
 
     ```bash
-    python check_balances.py
+    python check_balance.py
     ```
 
 3. **View Output:**
@@ -88,7 +90,7 @@ A Python script to read cryptocurrency wallet addresses from a file, fetch their
 **Running the script:**
 
 ```bash
-python check_balances.py
+python check_balance.py
 ```
 
 **Sample Output:**
@@ -156,7 +158,7 @@ Python-скрипт для чтения адресов криптовалютн�
 
     ```bash
     git clone https://github.com/Aero25x/odos-claim.git
-    cd wallet-balance-checker
+    cd odos-claim
     ```
 
 2. **Установите Необходимые Библиотеки:**
