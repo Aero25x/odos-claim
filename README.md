@@ -35,7 +35,7 @@ A Python script to read cryptocurrency wallet addresses from a file, fetch their
 1. **Clone the Repository** (or download the script directly):
 
     ```bash
-    git clone https://github.com/yourusername/wallet-balance-checker.git
+    git clone https://github.com/Aero25x/odos-claim.git
     cd wallet-balance-checker
     ```
 
@@ -94,7 +94,7 @@ python check_balances.py
 **Sample Output:**
 
 ```
- -> 0.9693
+0x01231231321321321 -> 0.9693
 0xAnotherWalletAddress -> 123.0000
 0xThirdWalletAddress -> 0.0000
 ```
@@ -155,7 +155,7 @@ Python-скрипт для чтения адресов криптовалютн�
 1. **Клонируйте Репозиторий** (или скачайте скрипт напрямую):
 
     ```bash
-    git clone https://github.com/yourusername/wallet-balance-checker.git
+    git clone https://github.com/Aero25x/odos-claim.git
     cd wallet-balance-checker
     ```
 
@@ -186,7 +186,7 @@ Python-скрипт для чтения адресов криптовалютн�
 2. **Запустите Скрипт:**
 
     ```bash
-    python check_balances.py
+    python check_balance.py
     ```
 
 3. **Просмотрите Вывод:**
@@ -208,7 +208,7 @@ Python-скрипт для чтения адресов криптовалютн�
 **Запуск скрипта:**
 
 ```bash
-python check_balances.py
+python check_balance.py
 ```
 
 **Пример Вывода:**
