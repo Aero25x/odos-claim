@@ -1,5 +1,6 @@
 # Wallet Balance Checker
 
+![image](https://github.com/user-attachments/assets/13d64139-4cad-46eb-8847-4387e9142185)
 
 A Python script to read cryptocurrency wallet addresses from a file, fetch their pending token balances using the ODOS API, and display the results in a user-friendly format.
 
