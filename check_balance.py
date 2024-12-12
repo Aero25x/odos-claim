@@ -1,5 +1,25 @@
 import requests
 
+
+print("""
+
+
+
+  _    _ _     _     _             _____          _
+ | |  | (_)   | |   | |           / ____|        | |
+ | |__| |_  __| | __| | ___ _ __ | |     ___   __| | ___
+ |  __  | |/ _` |/ _` |/ _ \ '_ \| |    / _ \ / _` |/ _ \\
+ | |  | | | (_| | (_| |  __/ | | | |___| (_) | (_| |  __/
+ |_|  |_|_|\__,_|\__,_|\___|_| |_|\_____\___/ \__,_|\___|
+
+                Odos Checker by Aero25x
+
+
+    """)
+
+
+
+
 def read_wallets(file_path):
     """Читает кошельки из файла, удаляя пробелы и пустые строки."""
     try:
@@ -40,10 +60,17 @@ def main():
         print("Нет кошельков для обработки.")
         return
 
+
+    total_balance = 0
+
     for wallet in wallets:
         balance = get_balance(wallet)
         if balance is not None:
+            total_balance +=balance
             print(f"{wallet} -> {round(balance, 4)}")
+
+
+    print(f"TOTAL: {total_balance}")
 
 if __name__ == "__main__":
     main()
