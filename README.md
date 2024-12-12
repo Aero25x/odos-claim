@@ -1,3 +1,10 @@
+[![Join our Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hidden_coding)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aero25x)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aero25x)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@flaming_chameleon)
+
+
+
 # Wallet Balance Checker
 
 ![image](https://github.com/user-attachments/assets/13d64139-4cad-46eb-8847-4387e9142185)
@@ -303,17 +310,17 @@ if __name__ == "__main__":
 ---
 
 # Ссылки
-
-- [ODOS API Documentation](https://api.odos.xyz/docs)
 - [Python Requests Library](https://requests.readthedocs.io/en/latest/)
 
 ---
 
-# Благодарности
 
-Спасибо всем, кто способствовал разработке и улучшению этого проекта!
+[![Join our Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hidden_coding)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aero25x)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aero25x)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@flaming_chameleon)
 
----
+
 
 # Contact
 
