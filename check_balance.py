@@ -14,9 +14,8 @@ print("""
 
                 Odos Checker by Aero25x
 
-
+Dont forget add stars for repo - https://github.com/Aero25x/odos-claim/
     """)
-
 
 
 
